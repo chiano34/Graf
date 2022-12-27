@@ -1,0 +1,11 @@
+C:\Users\Chiano34\source\repos\lab15\lab15\bin\Debug\lab15.exe.config
+C:\Users\Chiano34\source\repos\lab15\lab15\bin\Debug\lab15.exe
+C:\Users\Chiano34\source\repos\lab15\lab15\bin\Debug\lab15.pdb
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.exe
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\lab15.pdb
+C:\Users\Chiano34\source\repos\lab15\lab15\obj\Debug\Construction_15_1.Form1.resources
